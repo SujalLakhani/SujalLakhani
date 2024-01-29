@@ -45,10 +45,13 @@ I'm an Angular, MERN stack and Android app Developer. I have build many projects
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+<a href="https://www.tensorflow.org" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" height="50" /></a>
+<a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" height="50" /></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="50" /></a>
+<a href="https://www.chartjs.org" target="_blank"><img style="margin: 10px" src="https://www.chartjs.org/media/logo-title.svg" alt="ChartJs" height="50" /></a>
 </div>
 
 <br/>
@@ -76,7 +79,6 @@ I'm an Angular, MERN stack and Android app Developer. I have build many projects
 
 ## 📈 Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujallakhani&show_icons=true&count_private=true&hide_border=true" align="center" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujallakhani&show_icons=true&locale=en&layout=compact&count_private=true&hide_border=true" alt="sujallakhani" align="center"/>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujallakhani&" alt="sujallakhani" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujallakhani&show_icons=true&locale=en&layout=compact&count_private=true&hide_border=true" alt="sujallakhani" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujallakhani&" alt="sujallakhani" />
 </div>
