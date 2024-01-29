@@ -78,4 +78,5 @@ I'm an Angular, MERN stack and Android app Developer. I have build many projects
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sujallakhani&show_icons=true&count_private=true&hide_border=true" align="center" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujallakhani&show_icons=true&locale=en&layout=compact&count_private=true&hide_border=true" alt="sujallakhani" align="center"/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujallakhani&" alt="sujallakhani" /></p>
 </div>
