@@ -1,19 +1,19 @@
 
 # Hi, I'm Sujal Lakhani! 👋
 
-I have recently completed my Bachelor of Engineering degree in Information Technology and currently working as a Web Development Intern at Rapidops Inc., Ahmadabad, Gujarat. I have keen interest in problem solving and software development technologies. I am committed to continuously enhancing my technical proficiency to make significant contributions to both society and the organization.
+I have recently completed my Bachelor of Engineering degree in Information Technology and currently working as a Jr. Software Engineer at Rapidops Inc., Ahmadabad, Gujarat. I have keen interest in problem solving and software development technologies. I am committed to continuously enhancing my technical proficiency to make significant contributions to both society and the organization.
 
 
 <br/>
 
 ## 🚀 About Me
-I'm an Angular, MERN stack and Android app Developer. I have build many projects with Java For Android, React.js, Node.js, Express.js, MongoDB, SQL, REST API and Python. I also have initial level knowledge of Machine Leaning Algorithems. I like to solve competitive coding problems in online platforms like Codechef and Leetcode.  
+I'm an Angular, MERN stack and Android app Developer. I have build many projects with Java, React.js, Node.js, Express.js, MongoDB, SQL, REST API and Python. I also have initial level knowledge of Machine Leaning Algorithems. I like to solve competitive coding problems in online platforms like Codechef and Leetcode.  
 
 <br/>
 
 🤖 This days I am learning about Machine learning and how to use Tensorflow.
 
-👩‍💻 I'm currently working as a Web Developer Intern in Angular
+👩‍💻 I'm currently working as a Jr. Software Engineer in Angular
 
 🧠 Recently I had learned about Angular and TypeScript.
 
