@@ -1,23 +1,21 @@
 
 # Hi, I'm Sujal Lakhani! 👋
 
-I have recently completed my Bachelor of Engineering degree in Information Technology and currently working as a Jr. Software Engineer at Rapidops Inc., Ahmadabad, Gujarat. I have keen interest in problem solving and software development technologies. I am committed to continuously enhancing my technical proficiency to make significant contributions to both society and the organization.
+AI-Driven Software Engineer with 2 years of experience building scalable web applications using Angular, React.js, Node.js, and TypeScript. Skilled in debugging and problem-solving, with 300+ challenges solved on LeetCode. Leveraging tools like Cursor and Augment, I integrate AI into development workflows to boost productivity, reduce code complexity by up to 80%, and enhance performance.
 
 
 <br/>
 
 ## 🚀 About Me
-I'm an Angular, MERN stack and Android app Developer. I have build many projects with Java, React.js, Node.js, Express.js, MongoDB, SQL, REST API and Python. I also have initial level knowledge of Machine Leaning Algorithems. I like to solve competitive coding problems in online platforms like Codechef and Leetcode.  
+I'm a MEAN/MERN stack Developer. I have build many projects with Java, React.js, Node.js, Express.js, MongoDB, SQL, REST API and Python. I also have initial level knowledge of Machine Leaning Algorithems. I like to solve competitive coding problems in online platforms like Leetcode.  
 
 <br/>
 
-🤖 This days I am learning about Machine learning and how to use Tensorflow.
+🤖 This days I am learning about AI Agents and Exploring System Design.
 
-👩‍💻 I'm currently working as a Jr. Software Engineer in Angular
+👩‍💻 I'm currently working as a Jr. Software Engineer at Rapidops Inc.
 
-🧠 Recently I had learned about Angular and TypeScript.
-
-💬 Ask me about Core Java, Angular, Android App Development and Web Development.
+💬 Ask me about Core Java and Web Development.
 
 📫 Visit my portfolio website https://sujallakhani.github.io/  
 
@@ -42,9 +40,7 @@ I'm an Angular, MERN stack and Android app Developer. I have build many projects
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>    
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
@@ -60,11 +56,9 @@ I'm an Angular, MERN stack and Android app Developer. I have build many projects
 
 **Front-end:** HTML5, CSS3, JavaScript, TypeScript, Angular, React, Redux.
 
-**Back-end:** Node, Express, MongoDB, SQL, Firebase, REST API.
+**Back-end:** Node, Express, MongoDB, SQL, REST API.
 
-**Mobile App:** Java for Android, Android Studio, React Native.
-
-**Competitive Coding:** Core Java, Python, C++.
+**Competitive Coding:** Core Java, Python, JavaScript.
 
 <br/>
 
